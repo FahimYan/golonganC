@@ -1,0 +1,2 @@
+# golonganC
+untuk tugas pertama
